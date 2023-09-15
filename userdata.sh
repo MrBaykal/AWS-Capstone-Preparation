@@ -3,8 +3,8 @@ apt-get update -y
 apt-get install git -y
 apt-get install python3 -y
 cd /home/ubuntu/
-TOKEN=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
-git clone https://$TOKEN@github.com/okti3535/test-cap-project.git
+TOKEN=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
+git clone https://$TOKEN@github.com/MrBaykal/capstone-preparetion.git
 cd /home/ubuntu/test-cap-project
 apt install python3-pip -y
 apt-get install python3.7-dev libmysqlclient-dev -y
